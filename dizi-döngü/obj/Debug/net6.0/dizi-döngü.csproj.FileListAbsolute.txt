@@ -1,0 +1,15 @@
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\bin\Debug\net6.0\dizi-döngü.exe
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\bin\Debug\net6.0\dizi-döngü.deps.json
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\bin\Debug\net6.0\dizi-döngü.runtimeconfig.json
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\bin\Debug\net6.0\dizi-döngü.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\bin\Debug\net6.0\dizi-döngü.pdb
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\refint\dizi-döngü.dll
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.pdb
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\dizi-döngü.genruntimeconfig.cache
+C:\Users\MKP\OneDrive\Belgeler\.dotnet konsol\dizi-döngü\obj\Debug\net6.0\ref\dizi-döngü.dll
